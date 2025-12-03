@@ -1,1 +1,3 @@
 today we will goin to learn basic
+learning git from git bash 
+trying to learn commands 
